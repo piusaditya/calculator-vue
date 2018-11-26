@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # vue-webpack-calculator
 
 > 用vue.js实现简易计算器<br>
@@ -33,3 +34,7 @@ For detailed explanation on how things work, consult the [docs for vue-loader](h
 
 ヾ(o◕∀◕)ﾉヾ 如果有那么一丁点儿喜欢 请随手🌟~(≧▽≦)/~啦啦啦 <br>
 ヾ(o◕∀◕)ﾉヾ Encourage me a start🌟 if you like itヾ(o◕∀◕)ﾉヾ 
+=======
+# calculator-web-service
+calculator web service on vue
+>>>>>>> 540ac8bee7acd1f10a1c75bdf3605ebb9a0470a0
